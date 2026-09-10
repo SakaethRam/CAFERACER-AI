@@ -1,4 +1,4 @@
-# CafeRacer: Deterministic Codebase Intelligence Engine
+# CAFERACER: AGENTIC CODEBASE ENGINE
 
 CafeRacer is an enterprise-grade codebase intelligence engine designed to convert complex JavaScript and TypeScript repositories into deterministic, interactive architectural system models. By replacing speculative vector search with Abstract Syntax Tree (AST) parsing and directed dependency graph analysis, CafeRacer provides exact call-graph citations, deterministic node classification, and a 3-hop reverse Breadth-First Search (BFS) blast-radius impact simulator.
 
