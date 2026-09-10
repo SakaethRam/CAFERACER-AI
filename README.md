@@ -236,4 +236,4 @@ caferacer
 
 ## 9. License
 
-See `LICENSE` for further details.
+CafeRacer AI is distributed under the terms defined in `LICENSE`.
