@@ -1,8 +1,8 @@
-# CAFERACER: AGENTIC CODEBASE ENGINE
+# CAFERACER AI: GRANULAR CODEBASE ENGINE
 
-CafeRacer is an enterprise-grade codebase intelligence engine designed to convert complex JavaScript and TypeScript repositories into deterministic, interactive architectural system models. By replacing speculative vector search with Abstract Syntax Tree (AST) parsing and directed dependency graph analysis, CafeRacer provides exact call-graph citations, deterministic node classification, and a 3-hop reverse Breadth-First Search (BFS) blast-radius impact simulator.
+CafeRacer ([@CafeRacer](https://caferacers.vercel.app/)) is an enterprise-grade codebase intelligence engine designed to convert complex JavaScript and TypeScript repositories into deterministic, interactive architectural system models. By replacing speculative vector search with Abstract Syntax Tree (AST) parsing and directed dependency graph analysis, CafeRacer provides exact call-graph citations, deterministic node classification, and a 3-hop reverse Breadth-First Search (BFS) blast-radius impact simulator.
 
->VISIT CAFERACER: [@CafeRacer](https://caferacers.vercel.app/)
+<img width="1800" height="1000" alt="ZREX CAFERACER" src="https://github.com/user-attachments/assets/d68e49d0-1a7d-40a5-92d3-d6313b5e4629" />
 
 ---
 
